@@ -1,0 +1,12 @@
+C:\Users\CLI\Desktop\Web - Atividade\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\CLI\Desktop\Web - Atividade\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\CLI\Desktop\Web - Atividade\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\CLI\Desktop\Web - Atividade\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\Web - Atividade\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\Web - Atividade\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\Web - Atividade\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Web - Atividade\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\Web - Atividade\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\Web - Atividade\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\Web - Atividade\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\Web - Atividade\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

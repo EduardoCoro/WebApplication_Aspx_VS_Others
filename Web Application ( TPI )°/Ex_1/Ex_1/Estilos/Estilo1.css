@@ -1,0 +1,18 @@
+﻿body{ 
+    background-color:#E8E8E8;
+    background-image: url("/Imagens/images.jpg");
+	background-repeat:repeat-x;
+	background-attachment: scroll;
+	background-position:500px 250px;
+}
+
+p{ font-family:;
+} 
+
+h1{ font-family: arial;
+    font-size:larger;
+    
+}
+
+h2{ font-family: arial;
+} 

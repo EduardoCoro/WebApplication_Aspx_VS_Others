@@ -1,0 +1,19 @@
+C:\Users\CLI\Desktop\Evolução\Geracao\Geracao\bin\Geracao.dll
+C:\Users\CLI\Desktop\Evolução\Geracao\Geracao\bin\Geracao.pdb
+C:\Users\CLI\Desktop\Evolução\Geracao\Geracao\obj\Debug\Geracao.dll
+C:\Users\CLI\Desktop\Evolução\Geracao\Geracao\obj\Debug\Geracao.pdb
+E:\Evolução (TPI - Trabalho)\Geracao\Geracao\bin\Geracao.dll
+E:\Evolução (TPI - Trabalho)\Geracao\Geracao\bin\Geracao.pdb
+E:\Evolução (TPI - Trabalho)\Geracao\Geracao\obj\Debug\Geracao.dll
+E:\Evolução (TPI - Trabalho)\Geracao\Geracao\obj\Debug\Geracao.pdb
+H:\Evolução (TPI - Trabalho)edit\Geracao\Geracao\bin\Geracao.dll
+H:\Evolução (TPI - Trabalho)edit\Geracao\Geracao\bin\Geracao.pdb
+H:\Evolução (TPI - Trabalho)edit\Geracao\Geracao\obj\Debug\Geracao.dll
+H:\Evolução (TPI - Trabalho)edit\Geracao\Geracao\obj\Debug\Geracao.pdb
+D:\Arquivos Pessoais_Edu\Eduardo (Backup)\Pen Drive Coro 4 GB\Recuperados\Escola Etec ( Eduardo)\Evolução (TPI - Trabalho)edit\Geracao\Geracao\bin\Geracao.dll.config
+D:\Arquivos Pessoais_Edu\Eduardo (Backup)\Pen Drive Coro 4 GB\Recuperados\Escola Etec ( Eduardo)\Evolução (TPI - Trabalho)edit\Geracao\Geracao\bin\Geracao.dll
+D:\Arquivos Pessoais_Edu\Eduardo (Backup)\Pen Drive Coro 4 GB\Recuperados\Escola Etec ( Eduardo)\Evolução (TPI - Trabalho)edit\Geracao\Geracao\bin\Geracao.pdb
+D:\Arquivos Pessoais_Edu\Eduardo (Backup)\Pen Drive Coro 4 GB\Recuperados\Escola Etec ( Eduardo)\Evolução (TPI - Trabalho)edit\Geracao\Geracao\obj\Debug\Geracao.csproj.AssemblyReference.cache
+D:\Arquivos Pessoais_Edu\Eduardo (Backup)\Pen Drive Coro 4 GB\Recuperados\Escola Etec ( Eduardo)\Evolução (TPI - Trabalho)edit\Geracao\Geracao\obj\Debug\Geracao.csproj.CoreCompileInputs.cache
+D:\Arquivos Pessoais_Edu\Eduardo (Backup)\Pen Drive Coro 4 GB\Recuperados\Escola Etec ( Eduardo)\Evolução (TPI - Trabalho)edit\Geracao\Geracao\obj\Debug\Geracao.dll
+D:\Arquivos Pessoais_Edu\Eduardo (Backup)\Pen Drive Coro 4 GB\Recuperados\Escola Etec ( Eduardo)\Evolução (TPI - Trabalho)edit\Geracao\Geracao\obj\Debug\Geracao.pdb

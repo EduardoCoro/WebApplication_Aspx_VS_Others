@@ -1,0 +1,150 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Site.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>ChipSet</title>
+	<link rel="stylesheet" href="css/Style.css" type="text/css">
+    <link rel="icon" type="image/png" href="img/favicon.png" /> 
+</head>
+<body>
+	<div id="header">
+		<div class="wrapper clearfix">
+			<div id="logo">
+				<a href="Default.aspx"><img src="images/logo.png" alt="LOGO"height="60" width="100"></a>
+			</div>
+            <p>
+            kkkkkkk
+            </p>
+			<ul id="navigation">
+				<li class="selected">
+					<a href="Default.aspx">Home</a>
+				</li>
+				<li>
+					<a href="1geracao.aspx">1º Geração</a>
+				</li>
+				<li>
+					<a href="2geracao.aspx">2º Geração</a>
+				</li>
+				<li>
+					<a href="3geracao.aspx">3º Geração</a>
+				</li>
+                <li>
+					<a href="4geracao.aspx">4º Geração</a>
+				</li>
+                <li>
+					<a href="5geracao.aspx">5º Geração</a>
+				</li>
+                <li>
+				</li>
+				<li>
+					<a href="contatos.aspx">Contatos</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div id="contents">
+		<div id="adbox">
+			<div class="wrapper clearfix">
+				<div class="info">
+					<h1>Gerações de Computadores</h1>
+					<p class="paragrafo">
+						Gerações de Computadores<br />
+                        1ºGeração - Tecnologia de válvulas (1940 - 1955)<br />
+                        2ºGeração - Transístor (1955-1965)  <br />
+                        3ºGeração - Circuitos integrados (1965-1980)<br />
+                        4ºGeração - Circuito de larga escala (1980-1990)<br />
+                        5ºGeração - Ultra Large Scale Integration (1990-hoje)<br />
+                        </p>
+				
+			</div>
+            </div>
+			<div class="highlight">
+				<h2>As 5 gerações de computadores</i></h2>
+			</div>
+		</div>
+
+		<div class="body clearfix">
+			
+			<p style="font-size:12px;">
+				<h3>O que são computadores?</h3>
+               Computadores são máquinas que executam tarefas ou cálculos de acordo com um conjunto de instruções (os chamados programas). Os primeiros computadores totalmente eletrônicos, lançados na década de 40, eram máquinas enormes que exigiam equipes inteiras para funcionar. Comparados a essas máquinas de antigamente, os computadores atuais são impressionantes. Não só estão milhares de vezes mais rápidos, como podem caber na mesa, no colo ou até no bolso.
+			</p>
+		</div>
+	</div>
+	<div id="footer">
+		<ul id="featured" class="wrapper clearfix">
+			<li>
+				<img src="images/foto.jpg" alt="Img" height="163" width="176">
+				<h3><a href="1geracao.aspx">1° Geração</a></h3>
+				<p>
+                Tecnologia de válvulas (1940 - 1955)
+                </p>
+			</li>
+			<li>
+				<img src="images/foto1.jpg" alt="Img" height="163" width="176">
+				<h3><a href="2geracao.aspx">2° Geração</a></h3>
+				<p>Transístor (1955-1965)</p>
+			</li>
+			<li>
+				<img src="images/foto2.jpg" alt="Img" height="163" width="176">
+				<h3><a href="3geracao.aspx">3º Geração</a></h3>
+				<p>
+                Circuitos integrados (1965-1980)
+                </p>
+			</li>
+			<li>
+				<img src="images/foto3.jpg" alt="Img" height="163" width="176">
+				<h3><a href="4geracao.aspx">4° Geração</a></h3>
+				<p>
+                Circuito de larga escala (1980-1990)
+                </p>
+			</li>
+            <li>
+				<img src="images/foto4.jpg" alt="Img" height="163" width="176">
+				<h3><a href="5geracao.aspx">5° Geração</a></h3>
+				<p>
+                Ultra Large Scale Integration (1990 - hoje)
+                </p>
+					
+				
+			</li>
+		</ul>
+		<div class="body">
+			<div class="wrapper clearfix">
+				<div id="links">
+					<div>
+						<h4>Social</h4>
+						<ul>
+							<li>
+								<a href="http://google.com.br" target="_blank">Google</a>
+							</li>
+							<li>
+								<a href="http://facebook.com.br" target="_blank">Facebook</a>
+							</li>
+							<li>
+								<a href="http://youtube.com.br" target="_blank">Youtube</a>
+							</li>
+						</ul>
+					</div>
+					
+					
+				</div>
+				
+				<div id="Div1">
+					<h4>Gerações de Computadores</h4>
+					<p>
+						Obrigado pela visita!
+					</p>
+					
+				</div>
+				<p class="footnote">
+					© ChipSet.LTDA
+				</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

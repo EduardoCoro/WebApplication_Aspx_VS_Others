@@ -1,0 +1,141 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="Projeto.Master" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<form id="form1" runat="server">
+
+
+html>
+<head>
+	<title>Brimhalo Website Template</title>
+	<meta charset="utf-8">
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+	<!--[if IE 7]>
+		<link href="css/ie7.css" rel="stylesheet" type="text/css">
+	<![endif]-->
+</head>
+<body>
+	<div id="background">
+		<div id="page">
+			<div id="header">
+				<a href=""><img id="logo" src="images/logo.gif" width="200" height="63" alt=""></a>
+				<ul class="navigation">
+					<li>
+						<a class="active" href="">HOME</a>
+					</li>
+					<li>
+						<a href="">EVOLUÇÃO</a>
+					</li>
+					<li>
+						<a href="">CONTATOS</a>
+					</li>
+			    </ul>
+			</div>
+			<div id="body">
+				<div class="featured">
+					<div class="section"> <img src="images/home.jpg" width="950" height="439" alt="">
+						<div>
+							<h2> <a href="">GERAÇÕES DOS COMPUTADORES<span>EVOLUÇÃO</span></a> </h2>
+							<p>
+							    <asp:ContentPlaceHolder ID="corpo" runat="server">
+                                </asp:ContentPlaceHolder>
+							</p>
+							<a href="" class="button">COMPUTADOR</a> <a href="" class="button">NOTEBOOK</a> </div>
+					</div>
+				</div>
+				<div id="content">
+					<div class="header">
+						<h2><a href="">GERAÇÕES</a></h2>
+					</div>
+					<div class="section">
+						<div class="sidebar">
+							<ul>
+								<li>
+									<a href=""><img src="images/energy-saver.jpg" width="128" height="112" alt=""></a>
+								</li>
+								<li>
+									<a href=""><img src="images/voice-recognition.jpg" width="128" height="112" alt=""></a>
+								</li>
+								<li>
+									<a href=""><img src="images/retina-display.jpg" width="128" height="112" alt=""></a>
+								</li>
+							</ul>
+						</div>
+						<div class="content">
+							<ul>
+								<li>
+									<h2><a href=""><asp:ContentPlaceHolder ID="Tit_1" runat="server">
+                                    PRIMEIRA GERÇÃO
+                                        </asp:ContentPlaceHolder></a></h2>
+									<a href="" class="more">READ MORE &gt;&gt;</a>
+                                    <p>
+                                        <asp:ContentPlaceHolder ID="Txt_1" runat="server">
+                                        </asp:ContentPlaceHolder>
+                                    </p>
+								</li>
+								<li>
+									<h2><a href=""><asp:ContentPlaceHolder ID="Tit_2" runat="server">
+                                    SEGUNDA GERAÇÃO
+                                        </asp:ContentPlaceHolder></a></h2>
+									<a href="" class="more">READ MORE &gt;&gt;</a>
+								    <p>
+                                        <asp:ContentPlaceHolder ID="Txt_2" runat="server">
+                                        </asp:ContentPlaceHolder>
+                                    </p>
+                                </li>
+								<li>
+									<h2><a href=""><asp:ContentPlaceHolder ID="Tit_3" runat="server">
+                                        TERCEIRA GERAÇÃO
+                                        </asp:ContentPlaceHolder></a></h2>
+									<a href="" class="more">READ MORE &gt;&gt;</a>
+                                    <p>
+                                        <asp:ContentPlaceHolder ID="Txt_3" runat="server">
+                                        </asp:ContentPlaceHolder>
+                                    </p>
+								</li>
+                                <li>
+                                    <h2><a href=""><asp:ContentPlaceHolder ID="Tit_4" runat="server">
+                                        QUARTA GERAÇÃO
+                                        </asp:ContentPlaceHolder></a></h2>
+                                    <a href="" class="more">READ MORE &gt;&gt;</a>
+                                    <p>
+                                        <asp:ContentPlaceHolder ID="Txt_4" runat="server">
+                                        </asp:ContentPlaceHolder>
+                                    </p>
+                                </li>
+                                <li>
+                                    <h2>
+                                        <a href=""><asp:ContentPlaceHolder ID="Tit_5" runat="server">
+                                        QUINTA GERAÇÃO
+                                        </asp:ContentPlaceHolder></a></h2>
+                                    <a href="" class="more">READ MORE &gt;&gt;</a>
+                                    <p>
+                                        <asp:ContentPlaceHolder ID="Txt_5" runat="server">
+                                        </asp:ContentPlaceHolder>
+                                    </p>
+                                </li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+				<div>
+					<p>
+					</p>
+				</div>
+				<span id="footnote"> &copy; Copyright &copy; 2011. Company name all rights reserved </span>
+				
+                <!--Redes Sociais-->
+                <ul class="connect">
+					<li><a href="http://www.freewebsitetemplates.com/go/facebook/" class="facebook">&nbsp;</a></li>
+					<li><a href="http://www.freewebsitetemplates.com/go/twitter/" class="twitter">&nbsp;</a></li>
+					<li><a href="http://www.freewebsitetemplates.com/go/googleplus/" class="googleplus">&nbsp;</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</form>
+</body>
+</html>

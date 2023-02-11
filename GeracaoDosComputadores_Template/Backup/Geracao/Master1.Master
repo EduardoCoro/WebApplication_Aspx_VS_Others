@@ -1,0 +1,111 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master1.master.cs" Inherits="Geracao.Master1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head>
+	<title>Geração dos Computadores</title>
+	<meta charset="utf-8">
+	
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <!--[if IE 7]>
+		<link href="css/ie7.css" rel="stylesheet" type="text/css">
+	<![endif]-->
+</head>
+<body>
+	<form id="form1" runat="server">
+	<div id="background">
+		<div id="page">
+			<div id="header">
+				<a href="Default.aspx"><img id="logo" src="images/LG.PNG" alt=""></a>
+				<ul class="navigation">
+					<li>
+						<a class="Default.aspx" href="">HOME</a>
+					</li>
+					<li>
+						<a href="pcgeracao.aspx">GERAÇÃO</a>
+					</li>
+					<li>
+						<a href="Evolução.apsx">EVOLUÇÃO</a>
+					</li>
+					<li>
+						<a href="Sobre.aspx">SOBRE</a>
+					</li>
+					
+				</ul>
+			</div>
+			<div id="body">
+				<div class="featured">
+					<div class="section"> <img src="images/home.jpg" width="950" height="439" alt="">
+						<div>
+							<h2><span> GERAÇÃO DOS COMPUTADORES</span><BR>EVOLUÇÃO TECNOLÓGICA </h2>
+							<p>
+								
+							</p>
+							<a href="" class="button">COMPUTADOR</a> <a href="" class="button">NOTEBOOK</a> </div>
+					</div>
+				</div>
+				<div id="content">
+					<div class="header">
+						<h2><a href="">INFORMAÇÕES</a></h2>
+					</div>
+					<div class="section">
+						<div class="sidebar">
+							<ul>
+								<li>
+									<a href=""><img src="images/energy-saver.jpg" width="128" height="112" alt=""></a>
+								</li>
+								<li>
+									<a href=""><img src="images/voice-recognition.jpg" width="128" height="112" alt=""></a>
+								</li>
+								<li>
+									<a href=""><img src="images/retina-display.jpg" width="128" height="112" alt=""></a>
+								</li>
+							</ul>
+						</div>
+						<div class="content">
+							<ul>
+								<li>
+                                <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+									<h2><a href="">GERAÇÃO DOS COMPUTADORES</a></h2>
+									 
+                                     <p>
+                                     </p>
+                                     <a href="" class="more">LEIA ME &gt;&gt;</a>
+									</asp:ContentPlaceHolder>
+									
+								</li>
+								<li>
+                                <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+									<h2><a href="">EVOLUÇÃO TECNOLÓGICA</a></h2>
+									<p>
+                                    
+                                   
+									</p>
+							 </asp:ContentPlaceHolder>
+								</li>
+								
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+				<div>
+					<p>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                    </asp:ContentPlaceHolder>
+					</p>
+				</div>
+				<span id="footnote"> &copy; Copyright &copy; 2015. Company Diogo&Coró all rights reserved </span>
+				<ul class="connect">
+					<li><a href="http://www.facebook.com" class="facebook">&nbsp;</a></li>
+					<li><a href="https://twitter.com/?lang=pt" class="twitter">&nbsp;</a></li>
+					<li><a href="https://plus.google.com/?hl=pt_BR" class="googleplus">&nbsp;</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+    </form>
+</body>
+</html>

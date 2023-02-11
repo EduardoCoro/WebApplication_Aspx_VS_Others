@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D14655B5-1756-4AED-A914-6EA87D4FA3DB}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Site</RootNamespace>
+    <AssemblyName>Site</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1geracao.aspx" />
+    <Content Include="2geracao.aspx" />
+    <Content Include="3geracao.aspx" />
+    <Content Include="4geracao.aspx" />
+    <Content Include="5geracao.aspx" />
+    <Content Include="contatos.aspx" />
+    <Content Include="css\Style.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="images\adbox-bg-heading.jpg" />
+    <Content Include="images\astronaut-large.jpg" />
+    <Content Include="images\astronaut.jpg" />
+    <Content Include="images\bg-adbox.jpg" />
+    <Content Include="images\bg-body.jpg" />
+    <Content Include="images\bg-content.png" />
+    <Content Include="images\bg-footer.jpg" />
+    <Content Include="images\bg-header.png" />
+    <Content Include="images\border-footer.png" />
+    <Content Include="images\earth.jpg" />
+    <Content Include="images\foto.jpg" />
+    <Content Include="images\foto0.jpg" />
+    <Content Include="images\foto1.jpg" />
+    <Content Include="images\foto2.jpg" />
+    <Content Include="images\foto3.jpg" />
+    <Content Include="images\foto4.jpg" />
+    <Content Include="images\interface.png" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\space-shuttle.jpg" />
+    <Content Include="images\spacecraft-dark.jpg" />
+    <Content Include="images\spacecraft-small.jpg" />
+    <Content Include="images\spacecraft.jpg" />
+    <Content Include="images\spaceshuttle-closeup.jpg" />
+    <Content Include="images\tha.jpg" />
+    <Content Include="images\thumbnail-astronaut.jpg" />
+    <Content Include="images\thumbnail-craft.jpg" />
+    <Content Include="images\thumbnail-earth.jpg" />
+    <Content Include="images\thumbnail-spacecraft.jpg" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="1geracao.aspx.cs">
+      <DependentUpon>1geracao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="1geracao.aspx.designer.cs">
+      <DependentUpon>1geracao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="2geracao.aspx.cs">
+      <DependentUpon>2geracao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="2geracao.aspx.designer.cs">
+      <DependentUpon>2geracao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="3geracao.aspx.cs">
+      <DependentUpon>3geracao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="3geracao.aspx.designer.cs">
+      <DependentUpon>3geracao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="4geracao.aspx.cs">
+      <DependentUpon>4geracao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="4geracao.aspx.designer.cs">
+      <DependentUpon>4geracao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="5geracao.aspx.cs">
+      <DependentUpon>5geracao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="5geracao.aspx.designer.cs">
+      <DependentUpon>5geracao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="contatos.aspx.cs">
+      <DependentUpon>contatos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="contatos.aspx.designer.cs">
+      <DependentUpon>contatos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site1.Master.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site1.Master.designer.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Site1.Master" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>3384</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

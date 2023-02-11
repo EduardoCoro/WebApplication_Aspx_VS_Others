@@ -1,0 +1,8 @@
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Web Application ( TPI )°\Ex_1\Ex_1\bin\Ex_1.dll
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Web Application ( TPI )°\Ex_1\Ex_1\bin\Ex_1.pdb
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Web Application ( TPI )°\Ex_1\Ex_1\obj\Debug\Ex_1.dll
+F:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Web Application ( TPI )°\Ex_1\Ex_1\obj\Debug\Ex_1.pdb
+E:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Web Application ( TPI )°\Ex_1\Ex_1\bin\Ex_1.dll
+E:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Web Application ( TPI )°\Ex_1\Ex_1\bin\Ex_1.pdb
+E:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Web Application ( TPI )°\Ex_1\Ex_1\obj\Debug\Ex_1.dll
+E:\Escola (Eduardo Coró)\2° Integrado (atual)\Informática\Web Application ( TPI )°\Ex_1\Ex_1\obj\Debug\Ex_1.pdb
